@@ -5,9 +5,9 @@
   "description": "",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node src/server.ts",
     "build": "tsc",
-    "dev": "tsnd --exit-child src/server.js"
+    "dev": "tsnd --exit-child src/server.ts"
   },
   "keywords": [],
   "author": "",
