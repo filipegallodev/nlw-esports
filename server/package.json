@@ -3,11 +3,11 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "src/server.mts",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.mts",
+    "start": "node src/server.js",
     "build": "tsc",
-    "dev": "tsnd --exit-child src/server.mts"
+    "dev": "tsnd --exit-child src/server.js"
   },
   "keywords": [],
   "author": "",
